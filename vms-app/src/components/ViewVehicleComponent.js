@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import VehicleService from '../services/VehicleService'
+/*******************************/
 
 class ViewVehicleComponent extends Component {
     constructor(props) {
